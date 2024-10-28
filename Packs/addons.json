@@ -1,7 +1,8 @@
 [
     {
       "Name": "Test",
-      "Description": "This is a test pack",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
       "Author": "JadenGames",
       "Version": {
         "Major": 0,
@@ -12,141 +13,221 @@
         "MinorRevision": 0
       },
       "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
       "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
     },
     {
-        "Name": "Test1",
-        "Description": "This is a test pack",
-        "Author": "JadenGames",
-        "Version": {
-          "Major": 0,
-          "Minor": 0,
-          "Build": 0,
-          "Revision": 0,
-          "MajorRevision": 0,
-          "MinorRevision": 0
-        },
-        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
-        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      "Name": "Test",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
       },
-      {
-        "Name": "Test2",
-        "Description": "This is a test pack",
-        "Author": "JadenGames",
-        "Version": {
-          "Major": 0,
-          "Minor": 0,
-          "Build": 0,
-          "Revision": 0,
-          "MajorRevision": 0,
-          "MinorRevision": 0
-        },
-        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
-        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    },
+    {
+      "Name": "Test",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
       },
-      {
-        "Name": "Test3",
-        "Description": "This is a test pack",
-        "Author": "JadenGames",
-        "Version": {
-          "Major": 0,
-          "Minor": 0,
-          "Build": 0,
-          "Revision": 0,
-          "MajorRevision": 0,
-          "MinorRevision": 0
-        },
-        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
-        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    },
+    {
+      "Name": "Test",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
       },
-      {
-        "Name": "Test4",
-        "Description": "This is a test pack",
-        "Author": "JadenGames",
-        "Version": {
-          "Major": 0,
-          "Minor": 0,
-          "Build": 0,
-          "Revision": 0,
-          "MajorRevision": 0,
-          "MinorRevision": 0
-        },
-        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
-        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    },
+    {
+      "Name": "Test",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
       },
-      {
-        "Name": "Test5",
-        "Description": "This is a test pack",
-        "Author": "JadenGames",
-        "Version": {
-          "Major": 0,
-          "Minor": 0,
-          "Build": 0,
-          "Revision": 0,
-          "MajorRevision": 0,
-          "MinorRevision": 0
-        },
-        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
-        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    },
+    {
+      "Name": "Test",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
       },
-      {
-        "Name": "Test6",
-        "Description": "This is a test pack",
-        "Author": "JadenGames",
-        "Version": {
-          "Major": 0,
-          "Minor": 0,
-          "Build": 0,
-          "Revision": 0,
-          "MajorRevision": 0,
-          "MinorRevision": 0
-        },
-        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
-        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    },
+    {
+      "Name": "Test",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
       },
-      {
-        "Name": "Test7",
-        "Description": "This is a test pack",
-        "Author": "JadenGames",
-        "Version": {
-          "Major": 0,
-          "Minor": 0,
-          "Build": 0,
-          "Revision": 0,
-          "MajorRevision": 0,
-          "MinorRevision": 0
-        },
-        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
-        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    },
+    {
+      "Name": "Test",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
       },
-      {
-        "Name": "Test8",
-        "Description": "This is a test pack",
-        "Author": "JadenGames",
-        "Version": {
-          "Major": 0,
-          "Minor": 0,
-          "Build": 0,
-          "Revision": 0,
-          "MajorRevision": 0,
-          "MinorRevision": 0
-        },
-        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
-        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    },
+    {
+      "Name": "Test",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
       },
-      {
-        "Name": "Test9",
-        "Description": "This is a test pack",
-        "Author": "JadenGames",
-        "Version": {
-          "Major": 0,
-          "Minor": 0,
-          "Build": 0,
-          "Revision": 0,
-          "MajorRevision": 0,
-          "MinorRevision": 0
-        },
-        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
-        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
-      }
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    },
+    {
+      "Name": "Test",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
+      },
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    },
+    {
+      "Name": "Test",
+      "BriefDescription": "This is a test pack",
+      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
+      },
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    }
   ]
