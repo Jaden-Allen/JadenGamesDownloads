@@ -1,11 +1,11 @@
 [
     {
-      "Name": "Test",
-      "BriefDescription": "This is a test pack",
-      "MainDescription": "This pack is a test, it has various functions and utilities that serve no use whatsoever. The main goal of this pack is to restrict the flow of ease with all the use of the pack.",
+      "Name": "Vein Miner",
+      "BriefDescription": "This adds vein miner to minecraft!",
+      "MainDescription": "This pack is useful for survival gameplay! Simply sneak and break a block with a tool and it will break up to 64 connecting blocks of the same type. This does use durability per block broken so be careful.",
       "Author": "JadenGames",
       "Version": {
-        "Major": 0,
+        "Major": 1,
         "Minor": 0,
         "Build": 0,
         "Revision": 0,
