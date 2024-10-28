@@ -1,0 +1,62 @@
+[
+    {
+      "Name": "Test",
+      "Description": "This is a test pack",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
+      },
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+    },
+    {
+        "Name": "Test1",
+        "Description": "This is a test pack",
+        "Author": "JadenGames",
+        "Version": {
+          "Major": 0,
+          "Minor": 0,
+          "Build": 0,
+          "Revision": 0,
+          "MajorRevision": 0,
+          "MinorRevision": 0
+        },
+        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      },
+      {
+        "Name": "Test2",
+        "Description": "This is a test pack",
+        "Author": "JadenGames",
+        "Version": {
+          "Major": 0,
+          "Minor": 0,
+          "Build": 0,
+          "Revision": 0,
+          "MajorRevision": 0,
+          "MinorRevision": 0
+        },
+        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      },
+      {
+        "Name": "Test3",
+        "Description": "This is a test pack",
+        "Author": "JadenGames",
+        "Version": {
+          "Major": 0,
+          "Minor": 0,
+          "Build": 0,
+          "Revision": 0,
+          "MajorRevision": 0,
+          "MinorRevision": 0
+        },
+        "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/thumbnail.png",
+        "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Test/test.zip"
+      }
+  ]
