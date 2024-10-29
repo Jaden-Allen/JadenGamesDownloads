@@ -17,5 +17,43 @@
         "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/VeinMiner/image_1.jpg"
       ],
       "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/VeinMiner/VeinMiner.mcaddon"
+    },
+    {
+      "Name": "More Chickens",
+      "BriefDescription": "Ever wanted more chickens!? Well this addon adds 444 new Chickens, all with custom egg drops and recipes! Breed them in the chicken breeder to upgrade the tier of each chicken.",
+      "MainDescription": "With the More Chickens Addon you are able to pickup 148 new types of chickens. Just craft a chicken wand to pickup chickens then place them in a Roost to begin harvesting their drops. You can also just let them wander around since they will also just drop their block instead of eggs. Breed the chickens inside of the Chicken Breeder, make sure to turn All Items on to see all the chickens to see the recipes.\n\nTo breed your chickens first pick them up using the chicken wand. Now open the Chicken Breeder to breed your chickens! Each tier 1 and 2 chicken will breed with its self to get the higher tier chicken. Breed the tier 3 chickens to get new types of chickens!\n\nTo harvest your chickens first pick them up using the chicken wand. Now open the Roost and place in your chickens! Each tier of chicken will have a chance to drop the corresponding amount of items (tier 1 chicken drops 1 egg, tier 2 drops 2 ect). The tier also determines how quick the chicken lays eggs / drops an item. If you do not want to use the Roost then you dont have to! Just let your chickens wander around and they will drop items every now and then based on the tier. See tier drop rates below\n\nTier 1: 1 Item every 300 - 600 seconds\nTier 2: up to 2 Items every 150 - 300 seconds\nTier 3: up to 3 Items every 75 - 150 seconds",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 1,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
+      },
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/More%20Chickens/pack_icon.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/More%20Chickens/image_1.jpg"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/More%20Chickens/More%20Chickens_V1_0_3.mcaddon"
+    },
+    {
+      "Name": "Energy N More",
+      "BriefDescription": "Have you ever played java edition Minecraft and wished you could have power on bedrock edition? Well now you can, this addon adds new machines, and generators to the game! Such as the water mill and the windmill which will generate electricity!",
+      "MainDescription": "This addon adds new machines and generators that help make survival a bit more interesting.\n\nKeep note that the recipes for all these items are using osmium which generates between Y = ~ 80 to -64\n\nThis addon is built to not need any extra addons but I do recommend using Basic Machinery for extra machines. The power cables do not mix together and Energy and More Cables will not work for Basic Machinery blocks. The machines are all compatible as long as you use the cables for the right addons.",
+      "Author": "JadenGames",
+      "Version": {
+        "Major": 1,
+        "Minor": 0,
+        "Build": 0,
+        "Revision": 0,
+        "MajorRevision": 0,
+        "MinorRevision": 0
+      },
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/VeinMiner/pack_icon.png",
+      "Images": [
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Energy%20N%20More/image_1.jpg"
+      ],
+      "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/Energy%20N%20More/pack_icon.png"
     }
   ]
