@@ -12,11 +12,9 @@
         "MajorRevision": 0,
         "MinorRevision": 0
       },
-      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/VeinMiner/thumbnail.png",
+      "Thumbnail": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/VeinMiner/pack_icon.png",
       "Images": [
-        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/VeinMiner/image_1.png",
-        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/VeinMiner/image_2.png",
-        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/VeinMiner/image_3.png"
+        "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/VeinMiner/image_1.jpg"
       ],
       "File": "https://github.com/Jaden-Allen/JadenGamesDownloads/blob/main/Packs/Addons/VeinMiner/VeinMiner.mcaddon"
     }
